@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.a4be606a.css",
+    "main.js": "/react-gh-pages/static/js/main.a621963f.js",
+    "static/js/787.90e64d8f.chunk.js": "/react-gh-pages/static/js/787.90e64d8f.chunk.js",
+    "static/media/contrat-signature-homme-affaires-souriant.jpg": "/react-gh-pages/static/media/contrat-signature-homme-affaires-souriant.f9292e0f53dc821f9e86.jpg",
+    "static/media/img-team-3.jpg": "/react-gh-pages/static/media/img-team-3.72320252579a77aa973b.jpg",
+    "static/media/2.jpg": "/react-gh-pages/static/media/2.a84e07602701aa9bc858.jpg",
+    "static/media/img-team-2.jpg": "/react-gh-pages/static/media/img-team-2.77a1037fb82668193cb1.jpg",
+    "static/media/infrastructure.png": "/react-gh-pages/static/media/infrastructure.f691c4496c3de39fcfd8.png",
+    "static/media/image4-removebg-preview.png": "/react-gh-pages/static/media/image4-removebg-preview.a7f02830fb175067a770.png",
+    "static/media/risk-management.png": "/react-gh-pages/static/media/risk-management.07458362507ad8e332e7.png",
+    "static/media/image3.jpg": "/react-gh-pages/static/media/image3.f3a55b9079c58b255a45.jpg",
+    "static/media/image1.jpeg": "/react-gh-pages/static/media/image1.0053b03ec0ec1c385a73.jpeg",
+    "static/media/rabotage.png": "/react-gh-pages/static/media/rabotage.c6cf5b89d957072a764a.png",
+    "static/media/management.png": "/react-gh-pages/static/media/management.ae84f0c6c907356c3653.png",
+    "static/media/dollar-bill.png": "/react-gh-pages/static/media/dollar-bill.df4a963991c88e81e832.png",
+    "static/media/imageTrophee-removebg-preview.png": "/react-gh-pages/static/media/imageTrophee-removebg-preview.dc6fb8fee647408b2d3c.png",
+    "index.html": "/react-gh-pages/index.html",
+    "main.a4be606a.css.map": "/react-gh-pages/static/css/main.a4be606a.css.map",
+    "main.a621963f.js.map": "/react-gh-pages/static/js/main.a621963f.js.map",
+    "787.90e64d8f.chunk.js.map": "/react-gh-pages/static/js/787.90e64d8f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4be606a.css",
+    "static/js/main.a621963f.js"
+  ]
+}

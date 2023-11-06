@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.a4be606a.css",
-    "main.js": "/react-gh-pages/static/js/main.a621963f.js",
+    "main.css": "/react-gh-pages/static/css/main.c117f5f2.css",
+    "main.js": "/react-gh-pages/static/js/main.1e78869b.js",
     "static/js/787.90e64d8f.chunk.js": "/react-gh-pages/static/js/787.90e64d8f.chunk.js",
     "static/media/contrat-signature-homme-affaires-souriant.jpg": "/react-gh-pages/static/media/contrat-signature-homme-affaires-souriant.f9292e0f53dc821f9e86.jpg",
     "static/media/img-team-3.jpg": "/react-gh-pages/static/media/img-team-3.72320252579a77aa973b.jpg",
@@ -17,12 +17,12 @@
     "static/media/dollar-bill.png": "/react-gh-pages/static/media/dollar-bill.df4a963991c88e81e832.png",
     "static/media/imageTrophee-removebg-preview.png": "/react-gh-pages/static/media/imageTrophee-removebg-preview.dc6fb8fee647408b2d3c.png",
     "index.html": "/react-gh-pages/index.html",
-    "main.a4be606a.css.map": "/react-gh-pages/static/css/main.a4be606a.css.map",
-    "main.a621963f.js.map": "/react-gh-pages/static/js/main.a621963f.js.map",
+    "main.c117f5f2.css.map": "/react-gh-pages/static/css/main.c117f5f2.css.map",
+    "main.1e78869b.js.map": "/react-gh-pages/static/js/main.1e78869b.js.map",
     "787.90e64d8f.chunk.js.map": "/react-gh-pages/static/js/787.90e64d8f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4be606a.css",
-    "static/js/main.a621963f.js"
+    "static/css/main.c117f5f2.css",
+    "static/js/main.1e78869b.js"
   ]
 }
